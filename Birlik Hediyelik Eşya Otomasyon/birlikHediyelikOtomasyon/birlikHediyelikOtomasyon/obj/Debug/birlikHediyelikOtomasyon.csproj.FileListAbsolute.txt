@@ -1,0 +1,45 @@
+C:\Users\İlker Çiftci\Desktop\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\bin\Debug\birlikHediyelikOtomasyon.exe.config
+C:\Users\İlker Çiftci\Desktop\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\bin\Debug\birlikHediyelikOtomasyon.exe
+C:\Users\İlker Çiftci\Desktop\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\bin\Debug\birlikHediyelikOtomasyon.pdb
+C:\Users\İlker Çiftci\Desktop\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\İlker Çiftci\Desktop\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.Properties.Resources.resources
+C:\Users\İlker Çiftci\Desktop\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.csproj.GenerateResource.Cache
+C:\Users\İlker Çiftci\Desktop\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.exe
+C:\Users\İlker Çiftci\Desktop\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.pdb
+C:\Users\İlker Çiftci\Desktop\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.Anamenu.resources
+C:\Users\İlker Çiftci\Desktop\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.MutfakGerecleri.resources
+C:\Users\İlker Çiftci\Desktop\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.BanyoGerecleri.resources
+C:\Users\İlker Çiftci\Desktop\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.SalonTakimlari.resources
+C:\Users\İlker Çiftci\Desktop\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.UrunEkleme.resources
+C:\Users\ilker\Desktop\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.exe
+C:\Users\ilker\Desktop\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.pdb
+C:\Users\ilker\Desktop\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\bin\Debug\birlikHediyelikOtomasyon.exe.config
+C:\Users\ilker\Desktop\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\bin\Debug\birlikHediyelikOtomasyon.exe
+C:\Users\ilker\Desktop\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\bin\Debug\birlikHediyelikOtomasyon.pdb
+C:\Users\ilker\Desktop\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\ilker\Desktop\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.BanyoGerecleri.resources
+C:\Users\ilker\Desktop\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.Anamenu.resources
+C:\Users\ilker\Desktop\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.MutfakGerecleri.resources
+C:\Users\ilker\Desktop\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.Properties.Resources.resources
+C:\Users\ilker\Desktop\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.SalonTakimlari.resources
+C:\Users\ilker\Desktop\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.UrunEkleme.resources
+C:\Users\ilker\Desktop\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.csproj.GenerateResource.Cache
+C:\Users\ilker\Desktop\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.CeyizSetleri.resources
+C:\Users\ilker\Desktop\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.UrunKodEkle.resources
+C:\Users\ilker\Desktop\Otomasyonlar\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.BanyoGerecleri.resources
+C:\Users\ilker\Desktop\Otomasyonlar\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.Anamenu.resources
+C:\Users\ilker\Desktop\Otomasyonlar\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.CeyizSetleri.resources
+C:\Users\ilker\Desktop\Otomasyonlar\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.MutfakGerecleri.resources
+C:\Users\ilker\Desktop\Otomasyonlar\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.Properties.Resources.resources
+C:\Users\ilker\Desktop\Otomasyonlar\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.SalonTakimlari.resources
+C:\Users\ilker\Desktop\Otomasyonlar\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.UrunEkleme.resources
+C:\Users\ilker\Desktop\Otomasyonlar\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.UrunKodEkle.resources
+C:\Users\ilker\Desktop\Otomasyonlar\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.csproj.GenerateResource.Cache
+C:\Users\ilker\Desktop\Otomasyonlar\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.exe
+C:\Users\ilker\Desktop\Otomasyonlar\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.pdb
+C:\Users\ilker\Desktop\Otomasyonlar\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\bin\Debug\birlikHediyelikOtomasyon.exe.config
+C:\Users\ilker\Desktop\Otomasyonlar\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\bin\Debug\birlikHediyelikOtomasyon.exe
+C:\Users\ilker\Desktop\Otomasyonlar\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\bin\Debug\birlikHediyelikOtomasyon.pdb
+C:\Users\ilker\Desktop\Otomasyonlar\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.SalonTakımıGerecleri.resources
+C:\Users\ilker\Desktop\Otomasyonlar\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\Otomasyonlar\Birlik Hediyelik Eşya Otomasyon\birlikHediyelikOtomasyon\birlikHediyelikOtomasyon\obj\Debug\birlikHediyelikOtomasyon.csprojResolveAssemblyReference.cache
